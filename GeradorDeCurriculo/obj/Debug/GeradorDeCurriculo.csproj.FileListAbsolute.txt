@@ -1,0 +1,20 @@
+C:\Users\Nataniel\Documents\invest\uteis\GeradorDeDados\GeradorDeCurriculo\GeradorDeCurriculo\bin\Debug\GeradorDeCurriculo.exe.config
+C:\Users\Nataniel\Documents\invest\uteis\GeradorDeDados\GeradorDeCurriculo\GeradorDeCurriculo\bin\Debug\GeradorDeCurriculo.exe
+C:\Users\Nataniel\Documents\invest\uteis\GeradorDeDados\GeradorDeCurriculo\GeradorDeCurriculo\bin\Debug\GeradorDeCurriculo.pdb
+C:\Users\Nataniel\Documents\invest\uteis\GeradorDeDados\GeradorDeCurriculo\GeradorDeCurriculo\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Nataniel\Documents\invest\uteis\GeradorDeDados\GeradorDeCurriculo\GeradorDeCurriculo\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Nataniel\Documents\invest\uteis\GeradorDeDados\GeradorDeCurriculo\GeradorDeCurriculo\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Nataniel\Documents\invest\uteis\GeradorDeDados\GeradorDeCurriculo\GeradorDeCurriculo\obj\Debug\GeradorDeCurriculo.exe
+C:\Users\Nataniel\Documents\invest\uteis\GeradorDeDados\GeradorDeCurriculo\GeradorDeCurriculo\obj\Debug\GeradorDeCurriculo.pdb
+C:\Users\Nataniel\Documents\projetos codigo\GeradorDeCurriculo\GeradorDeCurriculo\bin\Debug\GeradorDeCurriculo.exe.config
+C:\Users\Nataniel\Documents\projetos codigo\GeradorDeCurriculo\GeradorDeCurriculo\obj\Debug\GeradorDeCurriculo.exe
+C:\Users\Nataniel\Documents\projetos codigo\GeradorDeCurriculo\GeradorDeCurriculo\obj\Debug\GeradorDeCurriculo.pdb
+C:\Users\Nataniel\Documents\projetos codigo\GeradorDeCurriculo\GeradorDeCurriculo\bin\Debug\GeradorDeCurriculo.exe
+C:\Users\Nataniel\Documents\projetos codigo\GeradorDeCurriculo\GeradorDeCurriculo\bin\Debug\GeradorDeCurriculo.pdb
+C:\Users\Nataniel\Documents\projetos codigo\GeradorDeCurriculo\GeradorDeCurriculo\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Nataniel\Documents\projetos codigo\GeradorDeCurriculo\GeradorDeCurriculo\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Nataniel\Documents\projetos codigo\GeradorDeCurriculo\GeradorDeCurriculo\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Nataniel\Documents\projetos codigo\GeradorDeCurriculo\GeradorDeCurriculo\obj\Debug\GeradorDeCurriculo.csprojResolveAssemblyReference.cache
+C:\Users\Nataniel\Documents\GitHub\GeradorDeCurriculo\GeradorDeCurriculo\bin\Debug\GeradorDeCurriculo.exe.config
+C:\Users\Nataniel\Documents\GitHub\GeradorDeCurriculo\GeradorDeCurriculo\obj\Debug\GeradorDeCurriculo.exe
+C:\Users\Nataniel\Documents\GitHub\GeradorDeCurriculo\GeradorDeCurriculo\obj\Debug\GeradorDeCurriculo.pdb

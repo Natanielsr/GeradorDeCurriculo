@@ -1,0 +1,264 @@
+﻿<style>
+    .main {
+        margin: 0px;
+        font-size: 12px;
+        border: 1px solid black;
+        border-radius: 10px;
+        background-color: lightgray;
+        font-family: sans-serif;
+    }
+
+    fieldset {
+        border: none;
+    }
+
+    fieldset div {
+        display: table-cell;
+        width: 1%;
+    }
+
+    section {
+        border: 1px solid black;
+        border-radius: 10px;
+        margin: 10px;
+        padding: 5px;
+        background-color: white;
+        page-break-after: auto;
+    }
+
+    h1 {
+        text-align: center;
+    }
+
+    h3 {
+        padding-left: 25px;
+    }
+
+    section div {
+        margin-bottom: 10px;
+    }
+
+    fieldset label {
+        float: left;
+    }
+
+    fieldset span {
+        float: left;
+        width: calc(100% - 110px);
+        height: 14px;
+        border-bottom: 1px solid black;
+    }
+</style>
+
+<div class="main">
+    <section>
+        <h1>CURRICULUM VITAE</h1>
+    </section>
+    <section>
+        <h3>IDENTIFICAÇÃO</h3>
+        <fieldset>
+            <label>Nome:</label><span id="nome"></span>
+        </fieldset>
+        <fieldset>
+            <div>
+                <label>Endereço:</label><span id="endereco"></span>
+            </div>
+            <div>
+                <label>Nº:</label><span id="numero"></span>
+            </div>
+        </fieldset>
+        <fieldset>
+            <div>
+                <label>Bairro:</label><span id="bairro"></span>
+            </div>
+            <div>
+                <label>Fone:</label><span id="fone"></span>
+            </div>
+        </fieldset>
+    
+        <fieldset>
+            <div>
+                <label>E-mail:	</label><span id="email"></span>
+            </div>
+            <div>
+                <label>Site:</label><span id="site"></span>
+            </div>
+        </fieldset>
+    	
+        <fieldset>
+            <div>
+                <label>Cidade:</label><span id="cidade"></span>
+            </div>
+            <div>
+                <label>CEP:</label><span id="cep"></span>
+            </div>
+            <div>
+                <label>Estado:</label><span id="estado"></span>
+            </div>
+        </fieldset>
+        <fieldset>
+            <label>Filho de:</label><span id="filhode"></span>
+        </fieldset>
+
+        <fieldset>
+            <div>
+                <label> Nacionalidade:</label><span id="nacionalidade"></span>
+            </div>
+            <div>
+                <label>Naturalidade:</label><span id="naturalidade"></span>
+            </div>
+        </fieldset>
+
+        <fieldset>
+            <div>
+                <label>Data de Nasc.:</label><span id="dataDeNascimento"></span>
+            </div>
+            <div>
+                <label>Estado Civil:</label><span id="estadoCivil"></span>
+            </div>
+        </fieldset>
+   	
+        <fieldset>
+            <div>
+                <label>Identidade:</label><span id="identidade"></span>
+            </div>
+            <div>
+                <label>Cart. Profissional:</label><span id="cartProfissional"></span>
+            </div>
+            <div>
+                <label>Série:</label><span id="serie"></span>
+            </div>
+        </fieldset>
+
+        <fieldset>
+            <div>
+                <label>Cart. de Reservista:</label><span id="carteiraDeReservista"></span>
+            </div>
+            <div>
+                <label>Titulo de Eleitor:</label><span id="tituloDeEleitor"></span>
+            </div>
+            <div>
+                <label>Zona:</label><span id="zona"></span>
+            </div>
+        </fieldset>
+    		
+        <fieldset>
+            <div>
+                <label>CPF:</label><span id="cpf"></span>
+            </div>
+            <div>
+                <label>Cart. de Habilitação:</label><span id="carteiraDeHabilitacao"></span>
+            </div>
+            <div>
+                <label>Categoria:</label><span id="categoria"></span>
+            </div>
+        </fieldset>
+    				
+    </section>
+
+    <section>
+        <h3>ESCOLARIDADE</h3>
+
+        <div>
+            <p>CURSO 1º GRAU(1ª a 8ª Série)</p>
+            <fieldset>
+                <label>Escola:</label><span id="1grauEscola"></span>
+            </fieldset>
+       
+            <fieldset>
+                <div>
+                    <label>Cidade:</label><span id="1grauCidade"></span>
+                </div>
+                <div>
+                    <label>Periodo:</label><span id="1grauPeriodo"></span>
+                </div>
+            </fieldset>
+        </div>
+
+        <div>
+            <p>CURSO COLEGIAL OU EQUIVALENTE</p>
+            <fieldset>
+                <label>Escola:</label><span id="colegialEscola"></span>
+            </fieldset>
+
+            <fieldset>
+                <div>
+                    <label>Cidade:</label><span id="colegialCidade"></span>
+                </div>
+                <div>
+                    <label>Periodo:</label><span id="colegialPeriodo"></span>
+                </div>
+            </fieldset>
+        </div>
+
+        <div>
+            <p>CURSO SUPERIOR</p>
+            <fieldset>
+                <label>Universidade:</label><span id="universade"></span>
+            </fieldset>
+
+            <fieldset>
+                <div>
+                    <label>Faculdade:</label><span id="faculdade"></span>
+                </div>
+                <div>
+                    <label>Curso:</label><span id="curso"></span>
+                </div>
+            </fieldset>
+
+            <fieldset>
+                <div>
+                    <label>Cidade:</label><span id="universidadeCidade"></span>
+                </div>
+                <div>
+                    <label>Período</label><span id="universiadePeriodo"></span>
+                </div>
+            </fieldset>
+        </div>
+    </section>
+
+    <section>
+        <h3>CURSOS DE APERFEIÇOAMENTO, PÓS-GRADUAÇÃO, SEMINÁRIOS, PALESTRAS, ETC.</h3>
+
+        <div id="lstAperf">
+        </div>
+    </section>
+
+    <section>
+        <h3>EXPERIÊNCIA PROFISSIONAL</h3>
+
+        <div id="lstFirma"></div>
+    		
+    </section>
+
+    <section>
+        <h3>INFORMAÇÕES COMPLEMENTARES - PESSOAS QUE POSSAM DAR INFORMAÇÕES</h3>
+
+        <div id="lstPessoa">
+        </div>
+
+    </section>
+
+    <section>
+        <h3>INFORMAÇÕES ECONÔMICAS E FUNCIONAIS</h3>
+        <fieldset>
+            <div>
+                <label>Último Salário:R$</label><span id="ultimoSalario"></span>
+            </div>
+        </fieldset>
+        <fieldset>
+            <div>
+                <label>Sal. Pretendido:R$</label><span id="salarioPretendido"></span>
+            </div>
+        </fieldset>
+        <fieldset>
+            <div>
+                <label>Outras funções que se propõe a exercer:</label><span id="outrasFuncoes"></span>
+            </div>
+        </fieldset>
+    
+    </section>
+
+</div>
+
+

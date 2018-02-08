@@ -1,0 +1,8 @@
+C:\Users\Nataniel\Documents\projetos codigo\GeradorDeCurriculo\GeradorDeCurriculo\bin\Release\GeradorDeCurriculo.exe.config
+C:\Users\Nataniel\Documents\projetos codigo\GeradorDeCurriculo\GeradorDeCurriculo\bin\Release\GeradorDeCurriculo.exe
+C:\Users\Nataniel\Documents\projetos codigo\GeradorDeCurriculo\GeradorDeCurriculo\bin\Release\GeradorDeCurriculo.pdb
+C:\Users\Nataniel\Documents\projetos codigo\GeradorDeCurriculo\GeradorDeCurriculo\bin\Release\HtmlAgilityPack.dll
+C:\Users\Nataniel\Documents\projetos codigo\GeradorDeCurriculo\GeradorDeCurriculo\bin\Release\HtmlAgilityPack.pdb
+C:\Users\Nataniel\Documents\projetos codigo\GeradorDeCurriculo\GeradorDeCurriculo\bin\Release\HtmlAgilityPack.xml
+C:\Users\Nataniel\Documents\projetos codigo\GeradorDeCurriculo\GeradorDeCurriculo\obj\Release\GeradorDeCurriculo.exe
+C:\Users\Nataniel\Documents\projetos codigo\GeradorDeCurriculo\GeradorDeCurriculo\obj\Release\GeradorDeCurriculo.pdb
